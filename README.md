@@ -16,7 +16,7 @@ Fintech (096292) project focusing on stock price prediction for American Airline
 
     * `LSTM.ipynb`: Long Short-Term Memory neural network model
     * `SARIMA.ipynb`: Seasonal ARIMA model
-    * `Prophet.ipynb`: Facebook Prophet forecasting model
+    * `Prophet.ipynb`: Facebook Prophet forecasting model (also contains Granger Causality experiment)
 
 
 * 📊 Additional Notebooks:
